@@ -23,7 +23,7 @@ echo $e->getMessage();
 }
 
 finally {
-    echo "<br>" ."Maths is not thard hard c'mon!" ;
+    echo "<br>" ."Maths is not that hard c'mon!" ;
 }
  
 ?>
